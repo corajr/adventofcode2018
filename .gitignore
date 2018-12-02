@@ -1,4 +1,5 @@
 inputs/
+.dir-locals.el
 dist
 dist-*
 cabal-dev

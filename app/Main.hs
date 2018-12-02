@@ -1,6 +1,6 @@
 module Main where
 
-import Problem01
+import Problem02
 
 main :: IO ()
 main = cliMain
